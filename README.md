@@ -2,8 +2,10 @@
 
 ## Installation
 
+```
 pip install FLask
 pyhton app.py
+```
 
 ## Description
 
